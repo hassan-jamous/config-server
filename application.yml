@@ -7,3 +7,5 @@ logging:
 application:
   logging:
     level: SEVERE
+
+management.endpoints.web.exposure.include: '*'
