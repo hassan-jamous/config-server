@@ -1,0 +1,9 @@
+info:
+  description: asdf
+logging:
+  level:
+    org.springframework.web: DEBUG
+    com.nab.nlinkweb: DEBUG
+application:
+  logging:
+    level: SEVERE
