@@ -1,5 +1,5 @@
 info:
-  description: asdf2
+  description: asdf3
 logging:
   level:
     org.springframework.web: DEBUG
