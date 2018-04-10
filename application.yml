@@ -1,12 +1,12 @@
 info:
-  description: New NLINKWEB 
+  description: NLINKWEB 
 logging:
   level:
     org.springframework.web: DEBUG
     com.nab.nlinkweb: DEBUG
 application:
   logging:
-    level: INFO
+    level: SEVERE
 
 management.endpoints.web.exposure.include: '*'
 
