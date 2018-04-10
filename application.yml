@@ -6,7 +6,7 @@ logging:
     com.nab.nlinkweb: DEBUG
 application:
   logging:
-    level: SEVERE
+    level: INFO
 
 management.endpoints.web.exposure.include: '*'
 
