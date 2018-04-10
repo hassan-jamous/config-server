@@ -1,5 +1,5 @@
 info:
-  description: NLINKWEB New App
+  description: NLINKWEB New 
 logging:
   level:
     org.springframework.web: DEBUG
